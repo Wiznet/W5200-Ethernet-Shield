@@ -1,7 +1,7 @@
 # W5200 Ethernet Shield
 W5200 Ethernet Shield is compatible with Official [Arduino Ethernet Shield](http://arduino.cc/en/Main/ArduinoEthernetShield) and support fast SPI and 8 sockets. 
 
-![W5200 Ethernet Shield](http://blog.wiznet.co.kr/FIles/W5200_Ethernet_Shield.jpeg "W5200 Ethernet Shield")
+![W5200 Ethernet Shield](http://wizwiki.net/files/W5200_Ethernet_Shield.jpeg "W5200 Ethernet Shield")
 
 ## Hardware
 These are PCB files for the W5200 Ethernet Shield for Arduino. The files were created in the free & low cost EagleCad software available from [CadSoft](http://www.cadsoftusa.com/download-eagle/?language=en).
